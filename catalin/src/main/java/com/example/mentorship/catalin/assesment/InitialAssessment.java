@@ -1,6 +1,6 @@
 package com.example.mentorship.catalin.assesment;
 
-public class AssessmentMain {
+public class InitialAssessment {
 
     public static void main(String[] args) {
         firstQuestion();
