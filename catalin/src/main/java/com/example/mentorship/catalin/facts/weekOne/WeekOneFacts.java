@@ -1,4 +1,4 @@
-package com.example.mentorship.catalin.facts;
+package com.example.mentorship.catalin.facts.weekOne;
 
 import org.openjdk.jol.info.ClassLayout;
 
